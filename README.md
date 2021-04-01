@@ -25,9 +25,8 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedElywa&hide=stars&show_icons=true)
+![Fi1osof's github stats](https://github-readme-stats.vercel.app/api?username=Fi1osof&hide=stars&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhmedElywa)
 
 <!--
 **AhmedElywa/AhmedElywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
