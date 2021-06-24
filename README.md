@@ -21,7 +21,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Fi1osof's github stats](https://github-readme-stats.vercel.app/api?username=Fi1osof&hide=stars&show_icons=true)
+[![Fi1osof's github stats](https://github-readme-stats.vercel.app/api?username=Fi1osof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://metrics.lecoq.io/ -->
+![metrics](./github-metrics.svg)
 
 
 <!--
