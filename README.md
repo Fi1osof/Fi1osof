@@ -1,7 +1,6 @@
 # Hi, I am Nikolay Lanets   👋 :computer: 
 
 - I'm a full-stack developers 
-- $5000/month net min
 
 
 ## ⚡ Technologies
