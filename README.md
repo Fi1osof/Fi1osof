@@ -13,6 +13,10 @@
 
 ---
 
+![stats](./github-metrics.svg)
+
+---
+
 # 👋 About
 
 I'm a full-stack engineer and systems architect with 18+ years of experience building production systems, platforms, and scalable infrastructure.
