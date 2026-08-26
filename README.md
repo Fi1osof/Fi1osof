@@ -250,6 +250,9 @@ Especially where:
 
 # 🔗 Links
 
+### 🏛️ Official site
+[fi1osof.ru](https://fi1osof.ru)
+
 ### 🌐 Ecosystem
 - [Freecode Academy](https://freecode.academy)
 - [haih.net](https://haih.net)
